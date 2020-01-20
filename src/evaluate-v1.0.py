@@ -1,6 +1,6 @@
-"""Official evaluation script for CoQA.
+"""This is a modified CoQA evaluation script for RC2.
 
-The code is based partially on SQuAD 2.0 evaluation script.
+The code is based partially on SQuAD 2.0 and CoQA evaluation script.
 """
 import argparse
 import json
