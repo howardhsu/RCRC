@@ -9,8 +9,7 @@ The model is expected to handle real-world applications where potential customer
 
 ## Dataset
 The annotated dataset is from the reviews of SemEval 2016 Task 5 for laptop and restaurant domain.
-It can be downloaded [here](https://drive.google.com/file/d/1qSTs7VkamBsxKN2iOAsK40zwAF5f1xo1/view?usp=sharing).
-
+It can be downloaded [here](https://drive.google.com/file/d/1qSTs7VkamBsxKN2iOAsK40zwAF5f1xo1/view?usp=sharing) or `data/RC2.zip`.
 
 ## Setup
 
